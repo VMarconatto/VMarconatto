@@ -1,8 +1,13 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Vinicius Marconatto
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor de softwares para aplicações industriais & Desenvolvimento de Programas para PLC´s, Sistema Scada`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Sou Vinicius Marconatto, apaixonado por integração de sistemas e desenvolvimento de soluções de software para ambientes industriais.
+Atuo desde a programação de CLPs e Sistemas SCADA, até a criação de aplicações customizadas para coleta, tratamento, armazenamento e visualização de dados industriais — local e cloud.
+
+Sólidos conhecimentos em protocolos industriais, instrumentação, e desenvolvimento full stack com foco em aplicações para supervisão, métricas e monitoramento em tempo real.
+
+Estou sempre evoluindo meu código através de boas práticas, padrões, refatoração e documentação estruturada.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
