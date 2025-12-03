@@ -3,7 +3,7 @@
 **`Desenvolvedor de softwares para aplicações industriais & Desenvolvimento de Programas para PLC´s, Sistema Scada`**
 
 Sou Vinicius Marconatto, apaixonado por integração de sistemas e desenvolvimento de soluções de software para ambientes industriais.
-Atuo desde a programação de CLPs e Sistemas SCADA, até a criação de aplicações customizadas para coleta, tratamento, armazenamento e visualização de dados industriais — local e cloud.
+Atuo desde a programação de CLPs e Sistemas SCADA, até a criação de aplicações customizadas para coleta, tratamento, armazenamento e visualização de dados industriais — local/cloud
 
 Sólidos conhecimentos em protocolos industriais, instrumentação, e desenvolvimento full stack com foco em aplicações para supervisão, métricas e monitoramento em tempo real.
 
