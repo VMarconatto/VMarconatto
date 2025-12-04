@@ -64,6 +64,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
   alt="OPC UA" 
   title="OPC UA"
   width="40px"
+  heigth = "40px"
   style="padding-right: 10px; vertical-align: top;" 
     src="./Img/MongoDB_Icon.png" width="40"
 />
