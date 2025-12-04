@@ -29,11 +29,11 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Node.JS" 
+    title="Node.JS"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="./Img/nodejs.png"
 />
 <img 
     align="left" 
