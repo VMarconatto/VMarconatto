@@ -68,11 +68,11 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
     src="./Img/mongo.png" width="40"
 />
 <img 
-  align="left"
-  alt="OPC UA"
+  align="left" 
+  alt="OPC UA" 
   title="OPC UA"
-  height="40px"
-  style="padding-right: 10px;" 
+  width="48px"
+  style="padding-right: 10px; vertical-align: top;" 
   src="./Img/OPCUA.jpg"
 />
 <br/>
