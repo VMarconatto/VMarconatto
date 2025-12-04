@@ -60,20 +60,20 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
+  align="left" 
+  alt="OPC UA" 
+  title="OPC UA"
+  width="40px"
+  style="padding-right: 10px; vertical-align: top;" 
     src="./Img/mongo.png" width="40"
 />
 <img 
- align="left"
-  alt="OPC UA"
+  align="left" 
+  alt="OPC UA" 
   title="OPC UA"
-  width="60px"     
-  style="padding-right: 10px;" 
-  src="./Img/opcua.png"
+  width="65px"
+  style="padding-right: 10px; vertical-align: top;" 
+  src="./Img/OPCUA.jpg"
 />
 <br/>
 <br/>
