@@ -71,7 +71,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
   align="left" 
   alt="OPC UA" 
   title="OPC UA"
-  width="48px"
+  width="56px"
   style="padding-right: 10px; vertical-align: top;" 
   src="./Img/OPCUA.jpg"
 />
