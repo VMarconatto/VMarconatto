@@ -32,7 +32,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
     alt="Node.JS" 
     title="Node.JS"
     width="60px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; vertical-align: top;" 
     src="./Img/nodejs.png"
 />
 <img 
