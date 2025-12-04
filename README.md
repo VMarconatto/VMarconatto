@@ -88,7 +88,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
   alt="Rede Asi" 
   title="Rede Asi" 
   width="75px"
-  style="padding-right: 10px; vertical-align: -30px;" 
+  style="padding-right: 10px; vertical-align: bottom;" 
   src="./Img/Rede_Asi.png"
 />
 <br/>
