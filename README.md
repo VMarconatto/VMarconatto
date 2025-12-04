@@ -83,6 +83,14 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
   style="padding-right: 10px; vertical-align: top;" 
   src="./Img/MBETH.png"
 />
+<img 
+  align="left" 
+  alt="Rede Asi" 
+  title="Rede Asi" 
+  width="100px"
+  style="padding-right: 10px; vertical-align: top;" 
+  src="./Img/Rede_Asi.png"
+/>
 <br/>
 <br/>
 
