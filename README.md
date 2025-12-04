@@ -66,7 +66,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
   width="40px"
   heigth = "40px"
   style="padding-right: 10px; vertical-align: top;" 
-    src="./Img/MongoDB_Icon.png" width="40"
+    src="./Img/MongoDB_Logomark.png" width="40"
 />
 <img 
   align="left" 
