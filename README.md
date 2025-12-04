@@ -61,7 +61,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
 />
 <img 
   align="left" 
-  width="17px"
+  width="20px"
   alt="MongoDB"
   title="MongoDB"
   style="padding-right: 10px; vertical-align: top;" 
@@ -71,7 +71,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
   align="left" 
   alt="OPC UA" 
   title="OPC UA"
-  width="50px"
+  width="60px"
   style="padding-right: 10px; vertical-align: top;" 
   src="./Img/OPCUA.jpg"
 />
@@ -87,7 +87,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
   align="left" 
   alt="Rede Asi" 
   title="Rede Asi" 
-  width="50px"
+  width="60px"
   style="padding-right: 10px; vertical-align: -20px;"
   src="./Img/Rede_Asi.png"
 />
