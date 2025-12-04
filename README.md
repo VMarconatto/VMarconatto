@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vinicius Marconatto
+# Vinicius Marconatto
 
 **`Desenvolvedor de softwares para aplicações industriais & Desenvolvimento de Programas para PLC´s, Sistema Scada`**
 
