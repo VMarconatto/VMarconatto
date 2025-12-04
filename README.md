@@ -15,7 +15,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -23,7 +23,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -31,7 +31,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -39,7 +39,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -47,7 +47,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
     align="left" 
     alt="React"
     title="React" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -55,7 +55,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -71,7 +71,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
   align="left" 
   alt="OPC UA" 
   title="OPC UA"
-  width="60px"
+  width="50px"
   style="padding-right: 10px; vertical-align: top;" 
   src="./Img/OPCUA.jpg"
 />
@@ -87,7 +87,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
   align="left" 
   alt="Rede Asi" 
   title="Rede Asi" 
-  width="75px"
+  width="50px"
   style="padding-right: 10px; vertical-align: -20px;"
   src="./Img/Rede_Asi.png"
 />
