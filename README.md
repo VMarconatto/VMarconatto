@@ -77,11 +77,19 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
 />
 <img 
   align="left" 
-  alt="OPC UA" 
-  title="OPC UA"
-  width="60px"
+  alt="Modbus TCP" 
+  title="Modbus TCP" 
+  width="100px"
   style="padding-right: 10px; vertical-align: top;" 
   src="./Img/MBETH.png"
+/>
+<img 
+  align="left" 
+  alt="Rede Asi" 
+  title="Rede Asi" 
+  width="75px"
+  style="padding-right: 10px; vertical-align: bottom;"
+  src="./Img/Rede_Asi.png"
 />
 <br/>
 <br/>
