@@ -31,7 +31,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
     align="left" 
     alt="Node.JS" 
     title="Node.JS"
-    width="45px" 
+    width="50px" 
     style="padding-right: 10px; vertical-align: top;" 
     src="./Img/nodejs.png"
 />
