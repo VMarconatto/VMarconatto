@@ -79,7 +79,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
   align="left" 
   alt="Modbus TCP" 
   title="Modbus TCP" 
-  width="70px"
+  width="85px"
   style="padding-right: 10px; vertical-align: top;" 
   src="./Img/MBETH.png"
 />
