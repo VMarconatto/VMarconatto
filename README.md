@@ -61,7 +61,7 @@ Estou sempre evoluindo meu código através de boas práticas, padrões, refator
 />
 <img 
   align="left" 
-  width="20px"
+  width="17px"
   alt="MongoDB"
   title="MongoDB"
   style="padding-right: 10px; vertical-align: top;" 
